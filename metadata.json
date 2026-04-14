@@ -1,0 +1,5 @@
+{
+  "name": "OBA MD Bot Manager",
+  "description": "A powerful WhatsApp bot management dashboard for OBA MD, featuring QR/Pairing code linking, session management, and a robust command system.",
+  "requestFramePermissions": []
+}
